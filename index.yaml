@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  a1-bookstack-helm:
+  - apiVersion: v2
+    appVersion: 0.1.0
+    created: "2023-12-07T14:10:22.1345322+01:00"
+    description: A Helm chart for Kubernetes
+    digest: 7b135d5c4bbcef00100aaa1fc491483827c8c15f16d07397d62f8b0ef1506d0f
+    name: a1-bookstack-helm
+    type: application
+    urls:
+    - a1-bookstack-helm-0.1.0.tgz
+    version: 0.1.0
+generated: "2023-12-07T14:10:22.1328461+01:00"
